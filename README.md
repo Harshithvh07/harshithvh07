@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm HARSHITH VH 👋
 
-<!--
-**Harshithvh07/harshithvh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BSc student studying Physics and Computer Science with a passion for astronomy and the mysteries of the universe.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌌 I have a strong interest in Physics and Astronomy.
+- 📚 Currently studying scientific computing using Python.
+- 🔭 I’m currently researching on gravitational waves.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Programming Languages:** Python, C++, C , CSS
+- **Tools and Technologies:**  GWpy, pyklip, Jupyter Notebooks , pycbc
+- **Fields of Interest:** Gravitational waves, Exoplanet research, Data analysis
+
+## 📝 Projects
+- **[Q-transform Analysis of GW230529]**
+  - Description: A detailed analysis of gravitational wave event GW230529 using Q-transform.
+  - Technologies: Python, GWpy
+
+- 
+## 📫 How to reach me
+- Email: harshivh123@gmail.com
+
+
+
