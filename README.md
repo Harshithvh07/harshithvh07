@@ -1,25 +1,48 @@
-# Hi there, I'm HARSHITH VH 👋
-
-I'm a BSc student studying Physics and Computer Science with a passion for astronomy and the mysteries of the universe.
+# Hi there, I'm HARSHITH VH 🙋🏽‍♂️
+I'm a BSc student studying Physics and Computer Science at Kristu Jayanti College . 
+With a passion for learning and crafting visinonary perspectives , my academic journey has been good . Along side my academics I do research in the field of Astronomy particularly in Graviational wave Astronomy and Exoplanets .
 
 ## 🚀 About Me
 - 🌌 I have a strong interest in Physics and Astronomy.
-- 📚 Currently studying scientific computing using Python.
+- 📚 Currently studying scientific computing using Python - IIT Kanpur .
 - 🔭 I’m currently researching on gravitational waves.
 
+## 📜Workshops participation 
+- Pravega astrophysics workshop - Indian Institute of Science [2023]
+- Gravitational wave open data workshop - ICTS-TIFR [2024]
+- Sagan Summer Workshop : Advances in Direct Imaging: From Young Jupiters to Habitable Earths - Caltech [2024]
+
+## 📆 Academic focus / Courses 
+## PHYSICS 
+- Mechanics and Properties of Matter
+- Electromagnetism
+- Basic Astronmy 
+- Intro to Astrophysical fluids
+- Scientific computation using python
+- Intro to Gravitational wave astronomy
+- Intro to Statistical phyics [Bayesian inference]
+
+## COMPUTER SCIENCE
+- Programming in C
+- Programming in C++
+- Programming in Python
+- CSS , HTML
+- Programming in JAVA
+
+## MATHEMATICS
+- Linear algebra
+- Basic vector and calculus
+- Fourier Transformation and Series
+
 ## 🛠️ Skills
-- **Programming Languages:** Python, C++, C , CSS
-- **Tools and Technologies:**  GWpy, pyklip, Jupyter Notebooks , pycbc
-- **Fields of Interest:** Gravitational waves, Exoplanet research, Data analysis
+- Tools and Technologies:  GWpy, pyklip, Jupyter Notebooks , pycbc
+- Fields of Interest: Gravitational waves, Exoplanet research, Data analysis
 
 ## 📝 Projects
-- **[Q-transform Analysis of GW230529]**
-  - Description: A detailed analysis of gravitational wave event GW230529 using Q-transform.
-  - Technologies: Python, GWpy
-
-- 
-## 📫 How to reach me
+  - [Q-transform Analysis of GW230529]
+    Description: A detailed analysis of gravitational wave event GW230529 using Q-transform.
+    Technologies: Python, GWpy
+  
+  ## 📫 How to reach me
 - Email: harshivh123@gmail.com
-
-
 
