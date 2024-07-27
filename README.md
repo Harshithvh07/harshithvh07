@@ -4,13 +4,13 @@ With a passion for learning and crafting visinonary perspectives , my academic j
 
 ## 🚀 About Me
 - 🌌 I have a strong interest in Physics and Astronomy.
-- 📚 Currently studying scientific computing using Python - IIT Kanpur .
+- 📚 Currently studying scientific computing using Python - IIT Kanpur 
 - 🔭 I’m currently researching on gravitational waves.
 
-## 📜Workshops participation 
+## 📜 Workshops participation 
 - Pravega astrophysics workshop - Indian Institute of Science [2023]
 - Gravitational wave open data workshop - ICTS-TIFR [2024]
-- Sagan Summer Workshop : Advances in Direct Imaging: From Young Jupiters to Habitable Earths - Caltech [2024]
+- NASA Sagan Summer Workshop : Advances in Direct Imaging: From Young Jupiters to Habitable Earths - Caltech [2024]
 
 ## 📆 Academic focus / Courses 
 ## PHYSICS 
@@ -28,6 +28,7 @@ With a passion for learning and crafting visinonary perspectives , my academic j
 - Programming in Python
 - CSS , HTML
 - Programming in JAVA
+- Data structures 
 
 ## MATHEMATICS
 - Linear algebra
@@ -35,8 +36,8 @@ With a passion for learning and crafting visinonary perspectives , my academic j
 - Fourier Transformation and Series
 
 ## 🛠️ Skills
-- Tools and Technologies:  GWpy, pyklip, Jupyter Notebooks , pycbc
-- Fields of Interest: Gravitational waves, Exoplanet research, Data analysis
+- Tools and Technologies:  GWpy, pyklip, Jupyter Notebooks , pycbc .
+- Fields of Interest: Gravitational waves, Exoplanet research, Data analysis .
 
 ## 📝 Projects
   - [Q-transform Analysis of GW230529]
@@ -45,4 +46,6 @@ With a passion for learning and crafting visinonary perspectives , my academic j
   
   ## 📫 How to reach me
 - Email: harshivh123@gmail.com
+- College mail : 23PHCS06@kristujayanti.com
+🗣️ Pin me up for research 
 
