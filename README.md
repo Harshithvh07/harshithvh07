@@ -7,6 +7,12 @@ With a passion for learning and crafting visinonary perspectives , my academic j
 - 📚 Currently studying scientific computing using Python - IIT Kanpur 
 - 🔭 I’m currently researching on gravitational waves.
 
+## Education 
+- The National Pre-University College [2021-2023]
+📍Jayanagar , Bengaluru
+- Kristu Jayanti College [2023-2026]
+📍K narayanpura , Bengaluru 
+
 ## 📜 Workshops participation 
 - Pravega astrophysics workshop - Indian Institute of Science [2023]
 - Gravitational wave open data workshop - ICTS-TIFR [2024]
@@ -16,6 +22,7 @@ With a passion for learning and crafting visinonary perspectives , my academic j
 ## PHYSICS 
 - Mechanics and Properties of Matter
 - Electromagnetism
+- Optics 
 - Basic Astronmy 
 - Intro to Astrophysical fluids
 - Scientific computation using python
@@ -46,6 +53,6 @@ With a passion for learning and crafting visinonary perspectives , my academic j
   
   ## 📫 How to reach me
 - Email: harshivh123@gmail.com
-- College mail : 23PHCS06@kristujayanti.com
-🗣️ Pin me up for research 
+- College mail:  23PHCS06@kristujayanti.com
+🗣️ Pin me up for research works .
 
