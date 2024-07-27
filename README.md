@@ -9,9 +9,9 @@ With a passion for learning and crafting visinonary perspectives , my academic j
 
 ## Education 
 - The National Pre-University College [2021-2023]
-📍Jayanagar , Bengaluru
+  -📍Jayanagar , Bengaluru
 - Kristu Jayanti College [2023-2026]
-📍K narayanpura , Bengaluru 
+  -📍K narayanpura , Bengaluru 
 
 ## 📜 Workshops participation 
 - Pravega astrophysics workshop - Indian Institute of Science [2023]
