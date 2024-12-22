@@ -10,7 +10,7 @@ With a passion for learning and crafting visinonary perspectives , my academic j
 ## Education 
 - The National Pre-University College [2021-2023]
   -📍Jayanagar , Bengaluru
-- Kristu Jayanti College [2023-2026]
+- Kristu Jayanti College [2023-present]
   -📍K narayanpura , Bengaluru 
 
 ## 📜 Workshops participation 
@@ -46,7 +46,7 @@ With a passion for learning and crafting visinonary perspectives , my academic j
 - Tools and Technologies:  GWpy, pyklip, Jupyter Notebooks , pycbc .
 - Fields of Interest: Gravitational waves, Exoplanet research, Data analysis .
 
-## 📝 Projects
+## 📝 Projects / Research papers
   - [Q-transform Analysis of GW230529]
     Description: A detailed analysis of gravitational wave event GW230529 using Q-transform.
     Technologies: Python, GWpy
