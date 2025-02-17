@@ -4,6 +4,7 @@ With a passion for learning and crafting visinonary perspectives , my academic j
 
 ## 🚀 About Me
 - 🌌 I have a strong interest in Physics and Astronomy.
+- 🌊 Currently part of LIGO Undergraduate study hub , Caltech - under Dr Lucy M Thomas 
 - 📚 Currently studying scientific computing using Python - IIT Kanpur 
 - 🔭 I’m currently researching on gravitational waves.
 
