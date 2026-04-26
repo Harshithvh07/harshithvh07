@@ -5,7 +5,7 @@ With a passion for learning and crafting visinonary perspectives , my academic j
 ## 🚀 About Me
 - 🌌 I have a strong interest in Physics and Astronomy.
 - 🌊 Currently part of LIGO Undergraduate study hub , Caltech - under Dr Lucy M Thomas 
-- 📚 Currently studying scientific computing using Python - IIT Kanpur 
+- 📚 Currently working on LLMs and RAG  
 - 🔭 I’m currently researching on gravitational waves.
 
 ## Education 
@@ -14,34 +14,7 @@ With a passion for learning and crafting visinonary perspectives , my academic j
 - Kristu Jayanti College [2023-present]
   -📍K narayanpura , Bengaluru 
 
-## 📜 Workshops participation 
-- Pravega astrophysics workshop - Indian Institute of Science [2023]
-- Gravitational wave open data workshop - ICTS-TIFR [2024]
-- NASA Sagan Summer Workshop : Advances in Direct Imaging: From Young Jupiters to Habitable Earths - Caltech [2024]
 
-## 📆 Academic focus / Courses 
-## PHYSICS 
-- Mechanics and Properties of Matter
-- Electromagnetism
-- Optics 
-- Basic Astronmy 
-- Intro to Astrophysical fluids
-- Scientific computation using python
-- Intro to Gravitational wave astronomy
-- Intro to Statistical phyics [Bayesian inference]
-
-## COMPUTER SCIENCE
-- Programming in C
-- Programming in C++
-- Programming in Python
-- CSS , HTML
-- Programming in JAVA
-- Data structures 
-
-## MATHEMATICS
-- Linear algebra
-- Basic vector and calculus
-- Fourier Transformation and Series
 
 ## 🛠️ Skills
 - Tools and Technologies:  GWpy, pyklip, Jupyter Notebooks , pycbc .
@@ -53,8 +26,8 @@ With a passion for learning and crafting visinonary perspectives , my academic j
     Technologies: Python, GWpy
   
   ## 📫 How to reach me
-- Email: harshivh123@gmail.com
-- College mail:  23PHCS06@kristujayanti.com
+- Email: harshivh123@gmail.com / harshith7research@gmail.com
+
 
 
 🗣️ Pin me up for research works .
