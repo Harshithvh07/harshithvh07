@@ -16,10 +16,6 @@ With a passion for learning and crafting visinonary perspectives , my academic j
 
 
 
-## 📝 Projects / Research papers
-  - [Q-transform Analysis of GW230529]
-    Description: A detailed analysis of gravitational wave event GW230529 using Q-transform.
-    Technologies: Python, GWpy
   
 
 
